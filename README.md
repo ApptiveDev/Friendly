@@ -1,6 +1,5 @@
 # Friendly
 
-## Backend
 외국인을 위한 photo 관광 서비스
 <div>
   <img width="150px" height="500px" src="https://github.com/ApptiveDev/apptive-18th-friendly-backend/assets/100478309/f9b640bc-a29e-4c0e-bb41-c87de081d302">
